@@ -1,1 +1,6 @@
-#tf_fizzbuzz
+tf_fizzbuzz
+============
+
+TensorFlowでFizzBuzzを学習させてみました。  
+
+
